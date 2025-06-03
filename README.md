@@ -26,6 +26,7 @@ L'application propose une **expérience festive immersive** : en détectant une 
 - **Android Build Tools** : compilation et déploiement sur Android
 
 ## 🎯 Fonctionnalités principales
+- **Détection du plan** (plane tracking)
 - **Détection d’image** (image tracking)
 - **Apparition et animation de ballons** virtuels
 - **Interactions utilisateur** : tir sur les ballons, effets visuels et sonores
